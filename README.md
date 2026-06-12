@@ -16,7 +16,8 @@ A Java console-based AI tutor that uses the Gemini API to answer coding and gene
 
 - Java
 - Gemini API
-- HTTP Client
+- REST API
+- Java HTTP Client
 - JSON library
 
 ## How It Works
